@@ -11,8 +11,6 @@
 .home{
     min-height: 100vh;
     background-color: #4D4D5E;
-    background-size: cover;
-    background-position: left; 
 }
 .home .Name{
     padding: 3em;
