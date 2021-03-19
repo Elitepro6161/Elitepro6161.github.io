@@ -9,7 +9,6 @@
     display: none;
 }
 .home{
-    min-height: 100vh;
     background-color: #4D4D5E;
 }
 .home .Name{
