@@ -8,6 +8,10 @@
 .menu-icon{
     display: none;
 }
+.home{
+ background-image: url(img/bg1.png);
+    background-size: cover;
+}
 .home .Name{
     padding: 3em;
     position: absolute;
