@@ -9,8 +9,10 @@
     display: none;
 }
 .home{
+    min-height: 100vh;
     background-image: url(img/bg1.png);
     background-size: cover;
+    background-position: left; 
 }
 .home .Name{
     padding: 3em;
