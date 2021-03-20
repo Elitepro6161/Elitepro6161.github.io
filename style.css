@@ -9,7 +9,7 @@
     display: none;
 }
 .home{
- background-image: url(img/bg1.png);
+    background-image: url(img/bg1.png);
     background-size: cover;
 }
 .home .Name{
